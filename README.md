@@ -1,7 +1,7 @@
 # Videogames
 This is analysis of Video game sales data
 
-# Data transformation/Preparation
+# Data Transformation/Preparation
 Transformed the critic_score to its nearest decimal place and filtered the records for only those values which are positive and sorted them.
 
 # Data Aggregation
